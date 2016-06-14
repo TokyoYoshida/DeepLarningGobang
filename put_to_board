@@ -1,0 +1,1 @@
+wget -O - http://localhost:4000/board?pos=$1
